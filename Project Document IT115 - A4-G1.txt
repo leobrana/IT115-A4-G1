@@ -1,0 +1,30 @@
+﻿Project Document IT115 A4-G9
+
+
+Team:
+Kyrrah Nork - design, research, repo owner
+Danielle Coulter
+
+
+Repo:
+https://github.com/kyrrahnork/IT115-A4-G9
+
+
+Github Page:
+https://kyrrahnork.github.io/IT115-A4-G9/
+
+
+Work Log:
+
+
+10/21/2020 Danielle added the beginning of the story. .5 hrs
+10/20/2020 Kyrrah added initial page to repo. .25hrs
+
+
+
+
+
+
+Resources:
+How to start an html page on Github
+https://docs.google.com/document/d/1pA8R3oQjKS-fr36zQ5IfIu9svOOUomqlKvMlRM80VgA/edit?usp=sharing
